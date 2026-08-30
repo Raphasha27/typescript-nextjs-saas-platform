@@ -134,10 +134,11 @@ typescript-nextjs-saas-platform/
 
 MIT License
 
-
 ## Live Demo
-- **GitHub Pages:** https://raphasha27.github.io/typescript-nextjs-saas-platform
-- **Vercel:** https://typescript-nextjs-saas-platform-alpha.vercel.app
-- **Docker Hub:** [docker pull raphasha27/typescript-nextjs-saas-platform](https://hub.docker.com/r/raphasha27/typescript-nextjs-saas-platform)
 
+| Platform | URL |
+|----------|-----|
+| GitHub Pages | [https://raphasha27.github.io/typescript-nextjs-saas-platform](https://raphasha27.github.io/typescript-nextjs-saas-platform) |
+| Docker Hub | [docker pull raphasha27/typescript-nextjs-saas-platform](https://hub.docker.com/r/raphasha27/typescript-nextjs-saas-platform) |
+| Vercel | [https://typescript-nextjs-saas-platform.vercel.app](https://typescript-nextjs-saas-platform.vercel.app) |
 
